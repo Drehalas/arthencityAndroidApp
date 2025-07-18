@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name">Arthencity Example</string>
+    <string name="app_name">Arthencity App</string>
 </resources>
-<resources>
-    <string name="app_name">VisionCamera Example</string>
-</resources>
+

@@ -1,7 +1,7 @@
-project(VisionCamera)
+project(Arthencity)
 cmake_minimum_required(VERSION 3.9.0)
 
-set(PACKAGE_NAME "VisionCamera")
+set(PACKAGE_NAME "Arthencity")
 set(BUILD_DIR ${CMAKE_SOURCE_DIR}/build)
 set(CMAKE_VERBOSE_MAKEFILE ON)
 set(CMAKE_CXX_STANDARD 17)

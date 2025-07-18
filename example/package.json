@@ -1,6 +1,6 @@
 {
-  "name": "arthencity-example",
-  "description": "Example app for arthencity",
+  "name": "arthencity-app",
+  "description": "Arthencity camera application",
   "version": "0.0.1",
   "private": true,
   "scripts": {

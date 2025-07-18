@@ -1,4 +1,16 @@
 {
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
   "name": "monorepo",
   "private": true,
   "workspaces": [
@@ -10,3 +22,3359 @@
     "react-native-vision-camera"
   ]
 }
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "react-native-vision-camera"
+  ]
+}
+{
+  "name": "arthencity",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
+  "trustedDependencies": [
+    "arthencity"
+  ]
+}
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "package",
+    "example",
+    "docs"
+  ],
